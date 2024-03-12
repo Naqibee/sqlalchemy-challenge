@@ -24,49 +24,8 @@ $ pip install Flask
 
 Part 1: Analyze and Explore the Climate Data
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--Preciptatio-output.png is the result of the precipitation analysis.
+-- tobs-output.png is also added. 
 
 Part 2: Design Your Climate App
 
